@@ -1,1 +1,1 @@
-# git-example new repo soestm
+# git-example new repository soestm
